@@ -2,6 +2,7 @@
 Python notebook for analyzing deforestation in Cancun, Mexico using OpenCV and satellite imagery from Google Earth Engine, designed for impactful environmental monitoring.
 
 ![image](https://github.com/Brandi-Kinard/python-opencv-deforestation/assets/52756042/bc9a7f9f-0030-4a9e-8f3f-c0ca6394c279)
+
 Photo by [Renaldo Matamoro](https://unsplash.com/@rmvisuals?utm_source=medium&utm_medium=referral) on [Upsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)
 
 ## Overview
