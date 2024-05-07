@@ -30,7 +30,7 @@ pip install opencv-python matplotlib ipython numpy
 ```
 
 ## For the Future
-If you want to add more, Please don't hesitate to open a [pull request](https://github.com/Brandi-Kinard/python-opencv-digital-signature/pulls).
+If you want to add more, Please don't hesitate to open a [pull request](https://github.com/Brandi-Kinard/python-opencv-deforestation/pulls).
 
 ## 👋 Get in Touch
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandi-kinard)
